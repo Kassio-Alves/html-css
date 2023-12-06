@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* 
+em HTML É id =  em css é #
+em html é class = em css é .
+*/
+
+body {
+    background-color: slategrey;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    color: aquamarine;
+
+}
+
+#t {
+    text-align: center;
+}
+
+h2 {
+    color: crimson;
+}
+
+.avançado {
+color: aquamarine;
+}
